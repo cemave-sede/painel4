@@ -1,0 +1,105 @@
+﻿Táxon;Nome comum;Familia;Status global;Status nacional ;Área de ocorrência predominante;Habitat ;Status migratório ;Impacto potencial / Risco presumido
+Phoenicopterus chilensis;Flamingo-chileno;Phoenicopteridae;NT;LC;Sul, Interior;Costeiro, Interior;Migrante austral;Colisão / -
+Phoenicopterus ruber;Flamingo-americano;Phoenicopteridae;LC;LC;Norte;Costeiro;Residente, Migrante boreal;Colisão / -
+Podicephorus major;Mergulhão-grande;Podicipedidae;LC;LC;Sul e Sudeste;Interior, Nerítico;Residente;Colisão, perda de habitat / Moderado
+Pluvialis dominica;Batuiruçu;Charadriidae;LC;DD;Sul;Costeiro;Migrante boreal;Colisão / -
+Pluvialis squatarola;Batuiruçu-de-axila-preta;Charadriidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Oreopholus ruficollis;Batuíra-de-papo-ferrugíneo;Charadriidae;LC;LC;Sul;Costeiro;Migrante austral;Colisão / -
+Charadrius modestus;Batuíra-de-peito-tijolo;Charadriidae;LC;LC;Sul;Costeiro;Migrante austral;Colisão / -
+Charadrius semipalmatus;Batuíra-de-bando;Charadriidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Charadrius wilsonia;Batuíra-bicuda;Charadriidae;LC;VU;Norte e Nordeste;Costeiro;Residente;Colisão / -
+Charadrius collaris;Batuíra-de-coleira;Charadriidae;LC;LC;Toda a costa;Costeiro;Residente;Colisão / -
+Charadrius falklandicus;Batuíra-de-coleira-dupla;Charadriidae;LC;LC;Sul;Costeiro;Migrante austral, Residente no RS;Colisão / -
+Haematopus palliatus;Piru-piru;Haematopodidae;LC;NT;Toda a costa;Costeiro;Residente, Migrante parcial no extremo Norte;Colisão / -
+Himantopus mexicanus;Pernilongo-de-costas-negras;Recurvirostridae;LC;LC;Norte e Nordeste;Costeiro;Residente, Migrante parcial no extremo Norte;Colisão / -
+Himantopus melanurus;Pernilongo-de-costas-brancas;Recurvirostridae;LC;LC;Toda a costa;Costeiro;Residente;Colisão / -
+Bartramia longicauda;Maçarico-do-campo;Scolopacidae;LC;LC;Interior;Interior;Migrante boreal;Colisão / Baixo
+Numenius hudsonicus;Maçarico-de-bico-torto;Scolopacidae;LC;NT;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Limosa haemastica;Maçarico-de-bico-virado;Scolopacidae;LC;LC;Sul e Sudeste;Costeiro;Migrante boreal;Colisão / -
+Arenaria interpres;Vira-pedras;Scolopacidae;LC;NT;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Calidris canutus;Maçarico-de-papo-vermelho;Scolopacidae;NT;CR;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Calidris himantopus;Maçarico-pernilongo;Scolopacidae;LC;LC;Toda a costa, Interior;Costeiro, Interior;Migrante boreal, Vagante;Colisão / Baixo
+Calidris alba;Maçarico-branco;Scolopacidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Calidris bairdii;Maçarico-de-bico-fino;Scolopacidae;LC;NA;Norte e Sul;Costeiro, Interior;Migrante boreal;Colisão / -
+Calidris minutilla;Maçariquinho;Scolopacidae;LC;DD;Toda a costa, mais comum no Norte e Nordeste;Costeiro;Migrante boreal;Colisão / -
+Calidris fuscicollis;Maçarico-de-sobre-branco;Scolopacidae;LC;LC;Toda a costa, Interior;Costeiro, Interior;Migrante boreal;Colisão / -
+Calidris subruficollis;Maçarico-acanelado;Scolopacidae;NT;VU;Sul;Costeiro, Interior;Migrante boreal;Colisão / -
+Calidris melanotos;Maçarico-de-colete;Scolopacidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Calidris pusilla;Maçarico-rasteirinho;Scolopacidae;NT;EN;Toda a costa, mais comum no Norte e Nordeste;Costeiro;Migrante boreal;Colisão / -
+Limnodromus griseus;Maçarico-de-costas-brancas;Scolopacidae;LC;CR;Norte e Nordeste;Costeiro;Migrante boreal;Colisão / -
+Phalaropus tricolor;pisa-n'água;Scolopacidae;LC;DD;Sul e Sudeste;Costeiro, Interior;Migrante boreal;Colisão / Baixo
+Actitis macularius;Maçarico-pintado;Scolopacidae;LC;LC;Toda a costa, mais comum no Sudeste, Norte e Nordeste;Costeiro;Migrante boreal;Colisão / -
+Tringa solitaria;Maçarico-solitário;Scolopacidae;LC;LC;Toda a costa, Interior;Costeiro, Interior;Migrante boreal;Colisão / -
+Tringa melanoleuca;Maçarico-grande-de-perna-amarela;Scolopacidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Tringa semipalmata;Maçarico-de-asa-branca;Scolopacidae;LC;LC;Toda a costa;Costeiro;Migrante boreal;Colisão / -
+Tringa flavipes;Maçarico-de-perna-amarela;Scolopacidae;LC;LC;Toda a costa, mais comum no interior;Costeiro, Interior;Migrante boreal;Colisão / -
+Stercorarius skua;Mandrião-grande;Stercorariidae;LC;LC;Toda a costa, mais comum no Norte e Nordeste;Costeiro, Oceânico;Migrante boreal;Colisão, perda de habitat / -
+Stercorarius chilensis;Mandrião-chileno;Stercorariidae;LC;NA;Sul e Sudeste;Costeiro, Oceânico;Migrante austral;Colisão, perda de habitat / -
+Stercorarius maccormicki;Mandrião-do-sul;Stercorariidae;LC;LC;Toda a costa;Costeiro, Oceânico;Migrante austral, transequatorial;Colisão, perda de habitat / -
+Stercorarius antarcticus;Mandrião-antártico;Stercorariidae;LC;LC;Toda a costa;Costeiro, Oceânico;Migrante austral;Colisão, perda de habitat / -
+Stercorarius pomarinus;Mandrião-pomarino;Stercorariidae;LC;LC;Toda a costa;Costeiro, Oceânico;Migrante boreal;Colisão, perda de habitat / -
+Stercorarius parasiticus;Mandrião-parasítico;Stercorariidae;LC;LC;Toda a costa;Costeiro, Oceânico;Migrante boreal;Colisão, perda de habitat / -
+Stercorarius longicaudus;Mandrião-de-cauda-comprida;Stercorariidae;LC;LC;Toda a costa;Costeiro, Oceânico;Migrante boreal;Colisão, perda de habitat / -
+Chroicocephalus maculipennis;Gaivota-maria-velha;Laridae;LC;LC;Sul e sudeste;Costeiro, Interior;Residente;Colisão, perda de habitat / -
+Chroicocephalus cirrocephalus;Gaivota-de-cabeça-cinza;Laridae;LC;LC;Toda a costa, Interior;Costeiro, Interior;Residente;Colisão, perda de habitat / -
+Leucophaeus atricilla;Gaivota-alegre;Laridae;LC;LC;Norte e Nordeste;Costeiro;Migrante boreal;Colisão, perda de habitat / -
+Larus atlanticus;Gaivota-de-rabo-preto;Laridae;NT;NA;Sul;Costeiro;Migrante austral, Vagante(?);Colisão / Baixo
+Larus dominicanus;Gaivotão;Laridae;LC;LC;Sul e Sudeste;Costeiro;Residente;Colisão, perda de habitat, Atração / -
+Anous stolidus;Trinta-réis-escuro;Laridae;LC;LC;Nordeste e Norte;Oceânico;Residente;Colisão, perda de habitat, Atração / -
+Anous minutus;Trinta-réis-preto;Laridae;LC;LC;Norte e Nordeste;Oceânico;Residente, restrito a ilhas;Colisão / Baixo
+Gygis alba;Grazina;Laridae;LC;NT;Nordeste e Sudeste;Oceânico;Residente, restrito a ilhas;Colisão / Baixo
+Rynchops niger;Talha-mar;Laridae;LC;LC;Toda a costa, Interior;Costeiro, Interior, improvável deslocamentos sobre o oceano aberto;Residente, migra para o interior;Colisão / Baixo
+Onychoprion fuscatus;Trinta-réis-das-rocas;Laridae;LC;LC;Nordeste e Norte;Oceânico;Residente;Colisão, perda de habitat / -
+Sternula antillarum;Trinta-réis-miúdo;Laridae;LC;LC;Norte e Nordeste;Costeiro;Migrante boreal, Residente no MA;Colisão, perda de habitat / -
+Sternula superciliaris;Trinta-réis-pequeno;Laridae;LC;LC;Toda a costa, Interior;Costeiro, Interior, improvável deslocamentos sobre o oceano aberto;Residente;Colisão / Baixo
+Phaetusa simplex;Trinta-réis-grande;Laridae;LC;LC;Toda a costa, Interior;Costeiro, Interior, improvável deslocamentos sobre o oceano aberto;Residente;Colisão / Baixo
+Gelochelidon nilotica;Trinta-réis-de-bico-preto;Laridae;LC;LC;Norte e Nordeste;Costeiro, Interior, improvável deslocamentos sobre o oceano aberto;Migrante parcial no Norte;Colisão / Baixo
+Sterna hirundo;Trinta-réis-boreal;Laridae;LC;LC;Toda a costa;Costeiro, Nerítico;Migrante boreal;Colisão, perda de habitat / Elevado
+Sterna dougallii;Trinta-réis-róseo;Laridae;LC;VU;Nordeste;Costeiro, Nerítico;Migrante boreal;Colisão, perda de habitat / Elevado
+Sterna paradisaea;Trinta-réis-ártico;Laridae;LC;LC;Toda a costa;Oceânico, raramente Costeiro;Migrante boreal;Colisão / Moderado
+Sterna hirundinacea;Trinta-réis-de-bico-vermelho;Laridae;LC;VU;Sul e Sudeste;Costeiro, Nerítico;Residente, Migrante austral parcial no RS;Colisão, perda de habitat / Elevado
+Sterna trudeaui;Trinta-réis-de-coroa-branca;Laridae;LC;LC;Sul e sudeste;Costeiro;Migrante parcial no Sul;Colisão / Baixo
+Thalasseus acuflavidus;Trinta-réis-de-bando;Laridae;LC;LC;Toda a costa;Costeiro, Nerítico;Residente, Migrante austral parcial no RS;Colisão, perda de habitat / Elevado
+Thalasseus maximus;Trinta-réis-real;Laridae;LC;EN;Toda a costa (exceto RN a norte da BA);Costeiro, Nerítico;Migrante austral parcial no RS, Migrante boreal no Norte, Residente no Sudeste;Colisão, perda de habitat / Elevado
+Phaethon aethereus;Rabo-de-palha-de-bico-vermelho;Phaethontidae;LC;EN;Nordeste (Abrolhos e Fernando de Noronha);Oceânico;Residente, restrito a ilhas;Colisão, perda de habitat / Baixo
+Phaethon lepturus;Rabo-de-palha-de-bico-laranja;Phaethontidae;LC;EN;Nordeste (Fernando de Noronha e Abrolhos);Oceânico;Residente, restrito a ilhas;Colisão, perda de habitat / Baixo
+Spheniscus magellanicus;Pinguim-de-magalhães;Spheniscidae;LC;NT;Sul e Sudeste;Nerítico;Migrante austral;Alteração de habitat de alimentação no Sul / Elevado
+Diomedea epomophora;Albatroz-real;Diomedeidae;VU;VU;Sul;Oceânico;Migrante austral;Colisão, perda de habitat / Moderado
+Diomedea sanfordi;Albatroz-real-do-norte;Diomedeidae;EN;EN;Sul;Oceânico;Migrante austral;Colisão, perda de habitat / Moderado
+Diomedea exulans;Albatroz-errante;Diomedeidae;VU;CR;Sul e Sudeste;Oceânico;Migrante austral;Colisão, perda de habitat / Moderado
+Diomedea dabbenena;Albatroz-de-tristão;Diomedeidae;CR;CR;Sul;Oceânico;Migrante austral;Colisão, perda de habitat / Moderado
+Phoebetria fusca;Piau-preto;Diomedeidae;EN;NA;Sul;Oceânico;Migrante austral, raro;Colisão, perda de habitat / Baixo
+Thalassarche chlororhynchos;Albatroz-de-nariz-amarelo-do-atlântico;Diomedeidae;EN;EN;Sul e Sudeste;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Thalassarche melanophris;Albatroz-de-sobrancelha-negra;Diomedeidae;LC;NT;Sul e Sudeste;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Fregetta grallaria;Painho-de-barriga-branca;Oceanitidae;LC;LC;Sudeste;Oceânico;Migrante austral, voo baixa altitude;Colisão, perda de habitat / Baixo
+Fregetta tropica;Painho-de-barriga-preta;Oceanitidae;LC;LC;Sul e Sudeste;Oceânico;Migrante austral, voo baixa altitude;Colisão, perda de habitat / Baixo
+Oceanites oceanicus;Alma-de-mestre;Oceanitidae;LC;LC;Toda a costa;Oceânico;Migrante austral, voo baixa altitude;Colisão, perda de habitat / Baixo
+Hydrobates leucorhous;Painho-de-cauda-furcada;Hydrobatidae;VU;LC;Norte e Nordeste;Oceânico;Migrante boreal, voo baixa altitude;Colisão, perda de habitat / Baixo
+Macronectes giganteus;Petrel-grande;Procellariidae;LC;LC;Sul e Sudeste;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Macronectes halli;Petrel-grande-do-norte;Procellariidae;LC;LC;Sul e Sudeste;Oceânico, alto mar;Migrante austral, raro;Colisão, perda de habitat / Moderado
+Fulmarus glacialoides;Pardelão-Prateado;Procellariidae;LC;LC;Sul e Sudeste;Oceânico;Migrante austral;Colisão, perda de habitat / Baixo
+Daption capense;Pomba-do-cabo;Procellariidae;LC;LC;Sul e Sudeste;Oceânico;Migrante austral;Colisão, perda de habitat / Baixo
+Pterodroma madeira;Grazina-da-madeira;Procellariidae;EN;EN;Nordeste;Oceânico, alto mar;Migrante boreal;Colisão, perda de habitat / Moderado
+Pterodroma deserta;Grazina-de-desertas;Procellariidae;VU;CR;Nordeste ao Sul;Oceânico, alto mar;Migrante boreal;Colisão, perda de habitat / Moderado
+Pterodroma mollis;Grazina-delicada;Procellariidae;LC;LC;Sul e Sudeste;Oceânico, alto mar;Migrante austral;Colisão, perda de habitat / Moderado
+Pterodroma incerta;Grazina-de-barriga-branca;Procellariidae;EN;EN;Sul e Sudeste;Oceânico, alto mar;Migrante austral;Colisão, perda de habitat / Moderado
+Pterodroma arminjoniana;Grazina-de-trindade;Procellariidae;VU;CR;Sudeste (Ilhas da Trindade e Martin Vaz) e Nordeste durante a migração;Oceânico, alto mar;Migrante para o hemisfério Norte, Residente no Brasil;Colisão, perda de habitat / Elevado no Nordeste
+Pachyptila desolata;Faigão-rola;Procellariidae;LC;LC;Sul e Sudeste;Oceânico, alto mar;Migrante austral;Colisão, perda de habitat / Moderado
+Pachyptila belcheri;Faigão-de-bico-fino;Procellariidae;LC;LC;Sul e Sudeste;Oceânico;Migrante austral, voo baixa altitude;Colisão, perda de habitat / Baixo
+Bulweria bulwerii;Alma-negra;Procellariidae;LC;NA;Sudeste e Nordeste;Oceânico;Migrante boreal, voo baixa altitude;Colisão, perda de habitat / Baixo
+Procellaria aequinoctialis;Pardela-preta;Procellariidae;VU;VU;Sul a Nordeste;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Procellaria conspicillata;Pardela-de-óculos;Procellariidae;VU;VU;Sul a Nordeste;Oceânico, alto mar;Migrante austral;Colisão, perda de habitat / Moderado
+Calonectris borealis;Cagarra-grande;Procellariidae;LC;LC;Toda a costa;Oceânico;Migrante boreal;Colisão, perda de habitat / Elevado
+Calonectris edwardsii;Cagarra-de-cabo-verde;Procellariidae;NT;NT;Sul a Nordeste;Oceânico;Migrante boreal;Colisão, perda de habitat / Elevado
+Ardenna grisea;Pardela-escura;Procellariidae;NT;LC;Toda a costa;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Ardenna gravis;Pardela-de-barrete;Procellariidae;LC;LC;Toda a costa;Oceânico, Nerítico;Migrante austral;Colisão, perda de habitat / Elevado
+Puffinus puffinus;Pardela-sombria;Procellariidae;LC;LC;Toda a costa;Oceânico;Migrante boreal;Colisão, perda de habitat / Elevado
+Puffinus boydi;Pardela-de-cabo-verde;Procellariidae;LC;LC;Nordeste e Norte;Oceânico;Migrante boreal, Vagante;Colisão, perda de habitat / Baixo
+Puffinus lherminieri;Pardela-de-asa-larga;Procellariidae;LC;CR;Sudeste e Nordeste;Oceânico;Residente, Migrante boreal, raro;Colisão, perda de habitat / Baixo
+Fregata trinitatis;Fragata-pequena;Fregatidae;NA;CR;Sudeste (Ilhas da Trindade e Martin Vaz);Oceânico;Residente, Endêmico da Ilha da Trindade;Colisão / Baixo
+Fregata magnificens;Fragata;Fregatidae;LC;LC;Toda a costa;Oceânico;Residente;Colisão, perda de habitat / Elevado
+Fregata minor;Fragata-grande;Fregatidae;LC;CR;Sudeste (Ilhas da Trindade e Martin Vaz);Oceânico;Residente, Endêmico da Ilha da Trindade;Colisão / Baixo
+Sula dactylatra;Atobá-grande;Sulidae;LC;LC;Toda a costa;Oceânico;Residente;Colisão, perda de habitat / Elevado
+Sula sula;Atobá-de-pé-vermelho;Sulidae;LC;EN;Sudeste e Nordeste;Oceânico;Residente, restrito a ilhas;Colisão, perda de habitat / Baixo
+Sula leucogaster;Atobá-pardo;Sulidae;LC;LC;Sul a Nordeste;Oceânico;Residente;Colisão, perda de habitat / Elevado
+Nannopterum brasilianum;Biguá;Sulidae;LC;LC;Toda a costa, Interior;Costeiro, Interior;Residente, Deslocamentos para o interior;Colisão, perda de habitat, Atração / Moderado
