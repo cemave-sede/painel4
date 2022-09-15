@@ -67,8 +67,9 @@ Input {.sidebar}
 
 <center>
 
+[Baixar relatório (pdf)](https://drive.google.com/file/d/1bnLY2-kQKBWzBFrw7x2Vh4sis72jmRVS/view?usp=sharing)
 
-[**Baixar relatório (pdf)**](https://drive.google.com/file/d/1bnLY2-kQKBWzBFrw7x2Vh4sis72jmRVS/view?usp=sharing)
+[Relatório completo *on-line*](https://cemave-sede.github.io/relatorio_aves/docs/index.html)
 
 </center>
 
@@ -843,7 +844,7 @@ Column 2 {data-width = 500}
 
 </br>
 
-Este painel *on-line* integra o *Relatório de Áreas de Concentração de Aves Migratórias no Brasil* (4ª edição), elaborado em atendimento à [Resolução nº 462/2014 do Conselho Nacional de Meio Ambiente (CONAMA)](http://www2.mma.gov.br/port/conama/legiabre.cfm?codlegi=703). O relatório tem como objetivo apontar áreas relevantes para as espécies de aves migratórias no Brasil. Assim como nos documentos anteriores, nessa nova edição são apresentados os locais de ocorrência de espécies de aves ameaçadas de extinção, que poderão ser utilizados como referência pelos órgãos licenciadores. Essa versão traz também um capítulo inédito sobre empreendimentos eólicos *offshore*, além de uma atualização do capítulo sobre a fauna de morcegos no Brasil e o risco modelado de colisão deste grupo com estruturas associadas aos empreendimentos eólicos.
+Este painel *on-line* integra o [*Relatório de Áreas de Concentração de Aves Migratórias no Brasil* (4ª edição)](https://cemave-sede.github.io/relatorio_aves/index.html), elaborado em atendimento à [Resolução nº 462/2014 do Conselho Nacional de Meio Ambiente (CONAMA)](http://www2.mma.gov.br/port/conama/legiabre.cfm?codlegi=703). O relatório tem como objetivo apontar áreas relevantes para as espécies de aves migratórias no Brasil. Assim como nos documentos anteriores, nessa nova edição são apresentados os locais de ocorrência de espécies de aves ameaçadas de extinção, que poderão ser utilizados como referência pelos órgãos licenciadores. Essa versão traz também um capítulo inédito sobre empreendimentos eólicos *offshore*, além de uma atualização do capítulo sobre a fauna de morcegos no Brasil e o risco modelado de colisão deste grupo com estruturas associadas aos empreendimentos eólicos.
 
 </br>
 
