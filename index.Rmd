@@ -63,11 +63,11 @@ Input {.sidebar}
 
 ```
 
-<center>[![Relatório](fig/capafinal.png "Relatório"){width=50% height=50%}](https://drive.google.com/file/d/1bnLY2-kQKBWzBFrw7x2Vh4sis72jmRVS/view?usp=sharing)</center>
+<center>[![Relatório](fig/capafinal.png "Relatório"){width=50% height=50%}](https://drive.google.com/drive/folders/109XnahlTtYhY9ycSj-RrOV_RTq-RjhB8?usp=sharing)</center>
 
 <center>
 
-[Baixar relatório (pdf)](https://drive.google.com/file/d/1bnLY2-kQKBWzBFrw7x2Vh4sis72jmRVS/view?usp=sharing)
+[Baixar relatório (pdf)](https://drive.google.com/drive/folders/109XnahlTtYhY9ycSj-RrOV_RTq-RjhB8?usp=sharing)
 
 [Relatório completo *on-line*](https://cemave-sede.github.io/relatorio_aves/)
 
