@@ -627,6 +627,9 @@ library(tidyverse)
 
 
 morcegos <- raster("data/raster/morcegos/w001001.adf")
+estados <- readOGR("data/shapes/estados_2010.shp", verbose = FALSE)
+regioes <- readOGR("data/shapes/regioes_2010.shp", verbose = FALSE)
+
 
 pal = colorNumeric(c("#313695", "#4575b4","#74add1", "#abd9e9", "#e0f3f8", "#ffffbf", "#fee090", "#fdae61", "#f46d43", "#d73027", "#a50026"), values(morcegos),  na.color = "transparent")
 
@@ -657,6 +660,14 @@ map <- leaflet() %>%
                color = "#000000",
                weight = 1,
                group = "Grade Aerogeradores")  %>%
+    addPolygons(data = estados,
+               color = "#000000",
+               weight = 1,
+               group = "Estados")  %>%
+    addPolygons(data = regioes,
+               color = "#000000",
+               weight = 1,
+               group = "Regiões")  %>%
     
     addLayersControl(
      #baseGroups = c(#"Open Street Map",
@@ -665,14 +676,16 @@ map <- leaflet() %>%
                      #),
     overlayGroups = c(#"Riqueza de morcegos",
                       "Aerogeradores",
-                      "Grade Aerogeradores"
+                      "Grade Aerogeradores",
+                      "Estados",
+                      "Regiões"
                       )) %>%
 
     addLegend("bottomright", pal = pal, values = values(morcegos),
     title = "Riqueza de morcegos")
    
 
-map %>% hideGroup(c("Aerogeradores", "Grade Aerogeradores"))
+map %>% hideGroup(c("Aerogeradores", "Grade Aerogeradores", "Estados", "Regiões"))
 
 ```
 
@@ -754,8 +767,6 @@ implantação e operação de empreendimentos eólicos</b></center>
 
 * [Portal Nacional de Licenciamento Ambiental – PNLA](http://pnla.mma.gov.br/) - Instrumento de divulgação de informações sobre o licenciamento ambiental em âmbito nacional que visa atender ao disposto na Lei Nº 10.650, de 16 de abril de 2003, que determina o acesso público aos dados e informações ambientais existentes nos órgãos e entidades que compõem o Sistema Nacional de Meio Ambiente – SISNAMA.  
 
-
-* [Planos de Ação Nacional para a Conservação de Espécies de Aves Silvestres Ameaçadas de Extinção - PANs](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan) - Os Planos de Ação Nacional para a Conservação das Espécies da Fauna (PANs) são diretrizes pactuadas com a sociedade para proteger a fauna, priorizando ações de combate às ameaças que põem em risco populações de espécies e ambientes naturais.  
 
 
 * [Diretrizes para estudos de impacto de parques eólicos sobre morcegos no Brasil - Versão 2017](https://www.researchgate.net/publication/338178113_Diretrizes_para_estudos_de_impacto_de_parques_eolicos_sobre_morcegos_no_Brasil_Versao_2017) - Documento do Laboratório de Ciência Aplicada à Conservação da Biodiversidade (Departamento de Zoologia, Universidade Federal de Pernambuco -UFPE e Sociedade Brasileira para o Estudo de Quirópteros - SBEQ que estabelece diretrizes para estudos de impacto de parques eólicos sobre morcegos no Brasil.  
