@@ -251,7 +251,7 @@ addPolygons(data = ucs_federais,
                             "Altura total (m): ", aerogeradores$ALT_TOTAL, "<br>",
                             "UF: ", aerogeradores$UF, "<br>")) %>%
   addPolygons(data = grade_aerogeradores,
-               color = "#F4A460",
+               color = "#244591",
                weight = 1,
                group = "Grade Aerogeradores")  %>%
 
