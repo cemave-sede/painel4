@@ -174,9 +174,9 @@ mapa <- leaflet() %>%
   setView(lng = -58, lat = -14,
           zoom = 4) %>%
  
-  #addProviderTiles(providers$Esri.WorldImagery, group = "Imagem ESRI") %>%
-  #addProviderTiles(providers$OpenStreetMap.Mapnik, group = "Open Street Map") %>%
-  addProviderTiles(providers$Stamen.TonerLite, group = "Stamen Toner Lite") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Imagem ESRI") %>%
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "Open Street Map") %>%
+  #addProviderTiles(providers$Stamen.TonerLite, group = "Stamen Toner Lite") %>%
   # Overlay groups
   # addPolygons(data = areas_importantes,
   #             color = "#96390e",
@@ -245,11 +245,11 @@ mapa <- leaflet() %>%
                group = "Grade Aerogeradores")  %>%
 
   # Layers Control
-  addLayersControl(
-    #baseGroups = c(#"Open Street Map",
+  addLayersControl((
+    baseGroups = c("Open Street Map",
                    #"Stamen Toner Lite"
-                   #"Imagem ESRI"),
-    #),
+                   "Imagem ESRI")
+    ),
     overlayGroups = c(#"Área importante para aves",
                       #"Riqueza de aves",
                       "Área de concentração de aves",
@@ -360,9 +360,9 @@ mapa <- leaflet() %>%
   #Base groups
   setView(lng = -58, lat = -14,
           zoom = 4) %>%
-  #addProviderTiles(providers$Esri.WorldImagery, group = "Imagem ESRI") %>%
-  addProviderTiles(providers$Stamen.TonerLite, group = "Stamen Toner Lite") %>%
-  #addProviderTiles(providers$OpenStreetMap.Mapnik, group = "Open Street Map") %>%
+  addProviderTiles(providers$Esri.WorldImagery, group = "Imagem ESRI") %>%
+  #addProviderTiles(providers$Stamen.TonerLite, group = "Stamen Toner Lite") %>%
+  addProviderTiles(providers$OpenStreetMap.Mapnik, group = "Open Street Map") %>%
 
   #Overlay groups
   # addPolygons(data = areas_importantes,
@@ -433,11 +433,10 @@ mapa <- leaflet() %>%
     #            group = "Grade Aerogeradores")  %>%
 
   # Layers Control
-  addLayersControl(
-    #baseGroups = c(#"Open Street Map ",
+  addLayersControl((
+    baseGroups = c("Open Street Map",
                    #"Stamen Toner Lite (default)"
-                   #"Imagem ESRI"),
-    #),
+                   "Imagem ESRI")),
     overlayGroups = c(#"Área importante para aves",
                       # "Riqueza de aves",
                       # "Área de concentração de aves",
