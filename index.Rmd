@@ -135,6 +135,7 @@ marinhas_costeiras <- read.csv2("data/Tabela_8.1.csv", header = TRUE, encoding =
 #areas_importantes <-  readOGR("data/AI/AI_riqueza_X_AI_concentracao.shp", verbose = FALSE)
 #riqueza <-  readOGR("data/Riqueza/AI_riqueza.shp", verbose = FALSE)
 concentracao <- readOGR("data/shapes/Areas_de_Concentracao.shp", verbose = FALSE)
+ucs_federais <- readOGR("data/shapes/LimiteUCsFederais_052023_p.shp", verbose = FALSE)
 #ucf_integral <-  readOGR("data/UC/UC_fed_junho_2020_PI.shp", verbose = FALSE)
 #ucf_sustentavel <-  readOGR("data/UC/UC_fed_junho_2020_US.shp", verbose = FALSE)
 spp_ameacadas <- readOGR("data/shapes/Areas_Ameacadas.shp", verbose = FALSE)
@@ -198,6 +199,16 @@ mapa <- leaflet() %>%
                    color = "#FF0000",
                    weight = 1,
                    group = "Ocorrência de espécies de aves ameaçadas") %>%
+addPolygons(data = ucs_federais,
+            color = "#fc7303",
+            weight = 1,
+            group = "UCs Federais",
+            popup = paste("CNUC: ", ucs_federais$Cnuc, "<br>",
+                          "Nome: ", ucs_federais$NomeUC, "<br>",
+                          "Ano de criação: ", ucs_federais$CriacaoAno, "<br>",
+                          "UF: ", ucs_federais$UFAbrang, "<br>",
+                          "Bioma: ", ucs_federais$BiomaIBGE, "<br>",
+                          "Grupo: ", ucs_federais$GrupoUC, "<br>")) %>%
 # addPolygons(data = ucf_integral,
 #             color = "#fc7303",
 #             weight = 1,
@@ -254,6 +265,7 @@ mapa <- leaflet() %>%
                       #"Riqueza de aves",
                       "Área de concentração de aves",
                       "Ocorrência de espécies de aves ameaçadas",
+                      "UCs Federais",
                       "Aerogeradores",
                       "Grade Aerogeradores"
                     
@@ -276,7 +288,7 @@ mapa <- leaflet() %>%
 
   
 mapa %>% hideGroup(c("Aerogeradores", "Ocorrência de espécies de aves ameaçadas",
-                      "Grade Aerogeradores"))
+                      "Grade Aerogeradores", "UCs Federais"))
 
 
 ```
